@@ -1,0 +1,4 @@
+cmd:
+  info:
+    disk-usage:
+      defaultDirectory: "/home/ralph"
