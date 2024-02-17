@@ -1,4 +1,4 @@
-module github.com/learn-go/toolbox
+module github.com/wreckitral/toolbox
 
 go 1.22.0
 

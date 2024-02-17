@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/learn-go/toolbox/cmd/info"
-	"github.com/learn-go/toolbox/cmd/net"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"github.com/wreckitral/toolbox/cmd/info"
+	"github.com/wreckitral/toolbox/cmd/net"
 )
 
 var cfgFile string
