@@ -3,5 +3,5 @@
 ## installation
 compile the program and install the binary on your system
 
-# go build . 
-# go install .
+### go build . 
+### go install .
